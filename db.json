@@ -1,0 +1,54 @@
+{
+
+"comunidades": [
+    {
+        "id": 1,
+        "title": "Comunidade carente-Lagoa Seca",
+        "description": "Atividades voltada para as crianças desse bairro Lagoa seca, as atividades realizadas são: conseguir patrocinadores,  recreação, distribuição de lanches e presentes",
+        "img": "../../src/assets/Bairro_Lagoa_criancas.png"
+    },
+    {
+        "id": 2,
+        "title": "Adote um Amigo",
+        "description": "O objetivo é fazer visitas aos moradores do asilo e atender aos pedidos de presentes, cada voluntário fica responsável por algum pedido.",
+        "img": "../../src/assets/Adote_Um_Amiglo.png"
+    },
+    {
+        "id": 3,
+        "title": "Barriga Cheia, Sorriso no Rosto",
+        "description": "Projeto voltado para a arrecadação e distribuição de cestas básicas para famílias em situações de vulnerabilidade.",
+        "img": "../../src/assets/Barriga_Cheia.png"
+    },
+    {
+        "id": 4,
+        "title": "Salve vidas",
+        "description": "Projeto voltado para a doação de sangue.",
+        "img": "../../src/assets/Salve_Vidas.png"
+    },
+    {
+        "id": 5,
+        "title": "Estrelas do mAr",
+        "description": "Projeto que visa trabalhar inclusão de pessoas com deficiência através da prática do bodyboarding",
+        "img": "../../src/assets/Estrelas_Do_Mar.png"
+    },
+    {
+        "id": 6,
+        "title": "Absorvendo",
+        "description": "O objetivo é a distribuição de kits de higiene  básico e íntimo  para mulheres que  moram nas  ruas.",
+        "img":"../../src/assets/Absorvendo.png"
+    },
+    {
+        "id": 7,
+        "title": "CasAmor",
+        "description": "Comunidade que ampara pessoas #LGBTQIA+ em situação de vulnerabilidade social.",
+        "img":"../../src/assets/CasAmor.png"
+    },
+    {
+        "id":"Comunidade carente Bairro America",
+        "title": "Ainda não sei- Autismo??",
+        "description": "Comunidade que ampar????a pessoas #LGBTQIA+ em situação de vulnerabilidade social.",
+        "img":"../../src/assets/Bairro_America.png"
+    }
+    ]
+    
+git 
