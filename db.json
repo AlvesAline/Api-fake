@@ -1,5 +1,7 @@
 {
 
+"usuarios": [],
+"novasComunidades": [],
 "comunidades": [
     {
         "id": 1,
